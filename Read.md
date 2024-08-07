@@ -90,11 +90,12 @@ The backend server will be available at http://localhost:5000 (or your configure
      ```
 
 ## Video Tutorial
+- [Youtube video Link ](https://youtu.be/PU8YtWAKgf4?si=9inexHbNuKUlAK4a)
 
 Here's a video tutorial on how to use the Pokémon Fullstack Application:
 
 <video width="900" controls>
-  <source src="./Recording 2024-08-07 145431.mp4" type="video/mp4">
+  <source src="./Recording 2024-08-07 145431 (1).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
